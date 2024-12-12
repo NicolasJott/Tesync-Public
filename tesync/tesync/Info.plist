@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_URL</key>
+	<string>$(API_URL)</string>
+	<key>TESLA_CLIENT_ID</key>
+	<string>$(TESLA_CLIENT_ID)</string>
+	<key>TESLA_CLIENT_SECRET</key>
+	<string>$(TESLA_CLIENT_SECRET)</string>
+	<key>TESLA_DOMAIN</key>
+	<string>$(TESLA_DOMAIN)</string>
+	<key>TESLA_REDIRECT_URL</key>
+	<string>$(TESLA_REDIRECT_URL)</string>
+
+</dict>
+</plist>

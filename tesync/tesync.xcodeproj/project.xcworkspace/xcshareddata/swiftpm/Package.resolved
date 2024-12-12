@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "e0c7eebc5a4465a3c4680764f26b7a61f567cdaf"
+      }
+    },
+    {
+      "identity" : "starscream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/daltoniam/Starscream.git",
+      "state" : {
+        "revision" : "c6bfd1af48efcc9a9ad203665db12375ba6b145a",
+        "version" : "4.0.8"
+      }
+    },
+    {
+      "identity" : "teslaswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jonasman/TeslaSwift.git",
+      "state" : {
+        "revision" : "b6702eca7bca03a56f086ba20bb1ec1deb77ad38",
+        "version" : "11.1.2"
+      }
+    }
+  ],
+  "version" : 2
+}
